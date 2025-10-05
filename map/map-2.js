@@ -16,6 +16,6 @@ for (var valor of map.values()) {
 
 console.log("---");
 
-for(var entrada of map.entries()) {
-  console.log(entrada);
+for (var entrada of map.entries()) {
+	console.log(entrada);
 }
